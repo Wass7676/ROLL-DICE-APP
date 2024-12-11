@@ -1,7 +1,14 @@
 # ROLL_DICE_APP
 
-A new Flutter project.
+Roll Dice App 🎲
+This is my first Flutter application! The Roll Dice App is a simple and fun app that simulates rolling dice. It’s built using Flutter and provides a smooth, interactive experience. Perfect for learning the basics of Flutter and Dart while having fun.
 
+
+Features:
+ -Roll the dice with a tap.
+ -Randomized results for every roll.
+ -Clean and responsive user interface.
+ 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
